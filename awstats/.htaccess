@@ -1,0 +1,4 @@
+AuthName "docosaurus statistics"
+AuthType Basic
+AuthUserFile /home/docosaurus/.awstats-htpasswd
+require valid-user
